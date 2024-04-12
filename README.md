@@ -1,3 +1,5 @@
+# MOVED TO [cereus-linux/pkgs](https://codeberg.org/cereus-linux/pkgs/src/branch/master/srcpkgs/xidlehook)
+
 # xidlehook-void
 xidlehook binary and source port for Void Linux.
 
